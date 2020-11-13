@@ -24,4 +24,3 @@ import {BasicButton, OutlineButton} from 'demo_button_component';
 
 ## Build and Publish Multiple React Components to NPM
 [Check out the article here](https://medium.com/@harikabv/build-and-publish-multiple-react-components-b85453b298e1)
-# demo_button_component
